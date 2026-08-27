@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn==1.6.1
+matplotlib
+seaborn
+optuna
+tpot==1.1.0
+imbalanced-learn
+lightgbm
+jupyter
