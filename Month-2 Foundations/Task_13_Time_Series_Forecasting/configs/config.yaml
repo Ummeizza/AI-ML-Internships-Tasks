@@ -1,0 +1,14 @@
+forecast:
+  horizon: 16
+
+models:
+  arima_order: [1, 1, 1]
+
+features:
+  lags: [1, 7, 14, 28]
+  rolling_windows: [7, 14, 28]
+
+validation:
+  n_splits: 5
+
+random_state: 42

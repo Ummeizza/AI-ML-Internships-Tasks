@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python environment files
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+*.csv
+*.zip
+*.rar
+*.7z
+
+# Excel files
+*.xlsx
+*.xls
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated outputs
+outputs/
